@@ -11,7 +11,4 @@ here are some pictures of the project:
 
 ![image](https://user-images.githubusercontent.com/46281169/67627814-7e720b80-f831-11e9-916e-467e156eac98.png)
 
-
-![image](https://user-images.githubusercontent.com/46281169/67627819-8a5dcd80-f831-11e9-9680-e43b802997cf.png)
-
 ![image](https://user-images.githubusercontent.com/46281169/67627837-eaed0a80-f831-11e9-8054-2fc314409d59.png)
